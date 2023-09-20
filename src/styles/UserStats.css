@@ -1,0 +1,13 @@
+.userStats__conteiner{
+  height: 30%;
+  width: 100%;
+  display: flex;
+}
+.userStats__data{
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,7 @@
+.IntroTransactions__conteiner{
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
